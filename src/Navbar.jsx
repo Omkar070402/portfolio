@@ -56,7 +56,7 @@ const Navbar = () => {
                                             </li>
                                         </ul>
 
-                                        <button className="btn btn-outline-light bg-light me-3 px-4 fw-bold resume-btn"><a href="./Omkar_Seshadri_CV (1).pdf" target="_blank" style={{textDecoration:'none'}}>Resume</a></button>
+                                        <button className="btn btn-outline-light bg-light me-3 px-4 fw-bold resume-btn"><a href="./Omkar_Seshadri_CV (3).pdf" target="_blank" style={{textDecoration:'none'}}>Resume</a></button>
                                     </div>
                                 </div>
                             </nav>

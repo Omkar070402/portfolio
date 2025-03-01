@@ -32,7 +32,7 @@ const Contact = () => {
                                             </div>
                                             <div className="d-flex gap-4 mt-2">
                                              <h5 className="mt-2">Check out Resume</h5>   
-                                            <a href="./Omkar_Seshadri_CV (1).pdf" target="_blank" > <div className="email text-center"><h3 className="mt-2"><i class="fa fa-file"></i></h3></div> </a>
+                                            <a href="./Omkar_Seshadri_CV (3).pdf" target="_blank" > <div className="email text-center"><h3 className="mt-2"><i class="fa fa-file"></i></h3></div> </a>
                                             </div>
                                             </div>
                                            </div>
