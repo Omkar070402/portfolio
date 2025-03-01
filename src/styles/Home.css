@@ -1,0 +1,66 @@
+.hero-sec h1{
+    font-size: 68px;
+    color: black;
+    font-family: "Dancing Script", serif;
+    font-weight: 900;
+}
+
+.hero-sec h5{
+    font-family: "Dancing Script", serif;
+    font-size: xx-large;
+    font-weight: 400;
+}
+
+.hero-sec p{
+    font-family: "Dancing Script", serif;
+    font-size: 20px;
+    font-weight: 700;
+    word-spacing: 1px;
+
+
+}
+
+section h2{
+    font-family: "Dancing Script", serif;
+    font-weight: bolder;
+    font-size: 33px;
+    color: black;
+
+
+}
+
+.skill-container i{
+    color: black;
+
+}
+
+.skill-container p{
+    font-size: 16px;
+    color: black;
+    transition: scale 0.3s ease-in-out;
+    
+}
+
+.skill-container i{
+    transition: scale 0.3s ease-in-out;
+}
+
+.skill-1 p:hover{
+
+    scale: 1.4;
+}
+
+.skill-1 i:hover{
+    scale: 1.4;
+}
+
+@media only screen and (max-width: 576px) {
+
+    .skill-1 p{
+        font-size: 12px;
+    }
+    
+    
+    
+    
+  }

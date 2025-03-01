@@ -1,0 +1,39 @@
+.project-title h1{
+    font-size: 72px;
+    font-family: "Dancing Script", serif;
+    font-weight: bold;
+    color: black;
+    
+}
+
+.project-card h1{
+    font-variant: small-caps;
+    
+}
+
+.project-card {
+    transition: scale 0.3s ease-in;
+}
+
+.project-card:hover{
+    scale: 1.1;
+}
+
+.card-1{
+    background: black !important;
+    color: white !important;
+    font-variant: small-caps;
+}
+
+@media only screen and (max-width: 576px) {
+    .project-title h1{
+        font-size: 50px;
+    }
+
+    .project-card{
+        margin-left: 50px;
+        width: 80% !important;
+    }
+  }
+
+

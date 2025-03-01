@@ -1,0 +1,31 @@
+.about-me h1{
+
+    font-family: "Dancing Script", serif;
+    color: black;
+    font-weight: bold;
+    font-size: 150px;
+
+    
+}
+
+
+@media only screen and (max-width: 576px) {
+
+    
+
+    .about-me h1{
+
+        font-size: 50px;
+        margin-left: 20px;
+        
+    }
+
+    
+    .about-me iframe{
+        width: 90px;
+        position: relative;
+        bottom: 35px;
+    }
+    
+    
+  }

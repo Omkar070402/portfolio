@@ -1,0 +1,29 @@
+.contact-title h1{
+    font-size: 120px;
+    font-family: "Dancing Script", serif;
+    font-weight: bold;
+    color: black;
+}
+
+.email{
+    height: 50px;
+    width: 50px;
+    border: 1px solid black;
+    border-radius: 50%;
+    background: white;
+
+}
+
+@media only screen and (max-width: 576px) {
+    .contact-title h1{
+
+        font-size: 40px;
+        margin-left: 10px;
+        
+    }
+
+
+    .contact-title iframe{
+        width: 90px;
+    }
+  }
